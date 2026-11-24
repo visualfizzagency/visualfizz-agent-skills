@@ -4,6 +4,8 @@ Three practical skills that make your AI coding agent work like a professional d
 
 Free forever, MIT licensed. Built by [Md Ayub Mondol](https://mdayubmondol.com) / VisualFizz, a creative advertising and AI-video agency in Dhaka.
 
+[![☕ Support Me](https://img.shields.io/badge/%E2%98%95_Support_Me-FFDD00?style=for-the-badge)](https://www.supportkori.com/hellomdayub)
+
 ## The skills
 
 | Skill | What it does |
